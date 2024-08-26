@@ -1,3 +1,6 @@
+*{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 #first{
     color:aliceblue;
     background-color :aquamarine;
@@ -9,4 +12,13 @@
 .odd{
     color:bisque;
     background-color: brown;
+}
+ul>li{
+    color:black;
+}
+
+a[href = "https://amazon.com"]
+{
+ color:rgb(208, 50, 195)  ;
+ font-size:large;
 }
